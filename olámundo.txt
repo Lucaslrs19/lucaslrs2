@@ -1,11 +1,11 @@
 (PO)
-Product Owner: Padilha
+Product Owner: 
 Equipe: EletroKoba
 (SM)
-Scrum Master: Luca Luiz
+Scrum Master: Lucas Luiz
 
 		Desenvolverdor 1: (Devisson) Thiago Barra
-		Habilidade: Come
+		Habilidade:
 		Experiência:
 
 		Desenvolverdor 2: (Devisson) Luís Almeida
