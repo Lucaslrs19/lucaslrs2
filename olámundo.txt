@@ -1,4 +1,17 @@
-Olá, mundo!
-Eu sou Lucas Luiz Ribeiro Silva
-Estudo engenharia elétrica e faço palomakoba
+(PO)
+Product Owner: Padilha
+Equipe: EletroKoba
+(SM)
+Scrum Master: Luca Luiz
 
+		Desenvolverdor 1: (Devisson) Thiago Barra
+		Habilidade:
+		Experiência:
+
+		Desenvolverdor 2: (Devisson) Luís Almeida
+		Habilidade:
+		Experiência:
+
+		Desenvolverdor 3: (Devisson) Kawan Vicentin
+		Habilidade:
+		Experiência:
