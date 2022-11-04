@@ -5,11 +5,11 @@ Equipe: EletroKoba
 Scrum Master: Luca Luiz
 
 		Desenvolverdor 1: (Devisson) Thiago Barra
-		Habilidade:
+		Habilidade: Comer
 		Experiência:
 
 		Desenvolverdor 2: (Devisson) Luís Almeida
-		Habilidade:
+		Habilidade: rir
 		Experiência:
 
 		Desenvolverdor 3: (Devisson) Kawan Vicentin
